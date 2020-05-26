@@ -26,5 +26,7 @@ Column Name | Description
 
 <img src="https://github.com/nasriv/Udemy_LogisiticRegression/blob/master/heatmap.jpg" width="700">
 
+<img src="https://github.com/nasriv/Udemy_LogisiticRegression/blob/master/pairplot.jpg" width="500">
+
 ## Logisitic Regression Model ## 
 ## Predictions and Evaluation ##
