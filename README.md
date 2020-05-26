@@ -21,6 +21,6 @@ Column Name | Description
 'Clicked on Ad'| 0 or 1 indicated clicking on Ad
 
 ## Exploratory Data Analysis ## 
-![](https://github.com/nasriv/Udemy_LogisiticRegression/blob/master/Joint_AgeAreaIncome.jpg =100)
+![](https://github.com/nasriv/Udemy_LogisiticRegression/blob/master/Joint_AgeAreaIncome.jpg width=100)
 ## Logisitic Regression Model ## 
 ## Predictions and Evaluation ##
