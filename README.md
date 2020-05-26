@@ -40,4 +40,11 @@ logm = LogisticRegression().fit(X_train,y_train)
 
 ```
 ## Predictions and Evaluation ##
+``` python 
+# -- predict results based on log model
+predictions = logm.predict(X_test)
 
+# --- output confusion matrix and classification matrix
+print(confusion_matrix(y_test,predictions))
+print(classification_report(y_test,predictions))
+```
