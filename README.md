@@ -4,7 +4,7 @@
 ### Logistic Regression Project ###
 In this project we will be working with a fake advertising data set, indicating whether or not a particular internet user clicked on an Advertisement. 
 
-__Strong text__ We will try to create a model that will predict whether or not they will click on an ad based off the features of that user __Strong text__
+__We will try to create a model that will predict whether or not they will click on an ad based off the features of that user__
 
 This data set contains the following features:
 Column Name | Description
