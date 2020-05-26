@@ -6,7 +6,7 @@ In this project we will be working with a fake advertising data set, indicating 
 
 This data set contains the following features:
 Column Name | Description
---------------------------
+-------------|------------
 'Daily Time Spent on Site'| consumer time on site in minutes
 'Age'| cutomer age in years
 'Area Income'| Avg. Income of geographical area of consumer
