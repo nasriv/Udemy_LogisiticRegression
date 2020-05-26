@@ -22,7 +22,9 @@ Column Name | Description
 
 ## Exploratory Data Analysis ## 
 
-<img src="https://github.com/nasriv/Udemy_LogisiticRegression/blob/master/AgeHist.jpg" width="350"> <img src="https://github.com/nasriv/Udemy_LogisiticRegression/blob/master/Joint_AgeAreaIncome.jpg" width="350"> <img src="https://github.com/nasriv/Udemy_LogisiticRegression/blob/master/heatmap.jpg" width="350">
+<img src="https://github.com/nasriv/Udemy_LogisiticRegression/blob/master/AgeHist.jpg" width="350"> <img src="https://github.com/nasriv/Udemy_LogisiticRegression/blob/master/Joint_AgeAreaIncome.jpg" width="350"> 
+
+<img src="https://github.com/nasriv/Udemy_LogisiticRegression/blob/master/heatmap.jpg" width="700">
 
 ## Logisitic Regression Model ## 
 ## Predictions and Evaluation ##
