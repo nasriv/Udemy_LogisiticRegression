@@ -29,5 +29,13 @@ Column Name | Description
 <img src="https://github.com/nasriv/Udemy_LogisiticRegression/blob/master/pairplot.jpg" width="700">
 
 ## Logisitic Regression Model ## 
+''' python
+X = ads.drop(['Ad Topic Line','City','Country','Timestamp','Clicked on Ad'],axis=1)
+y = ads['Clicked on Ad']
+
+# design test and training set
+X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.3, random_state=101)
+logm = LogisticRegression().fit(X_train,y_train)
+'''
 ## Predictions and Evaluation ##
 
