@@ -21,5 +21,6 @@ Column Name | Description
 'Clicked on Ad'| 0 or 1 indicated clicking on Ad
 
 ## Exploratory Data Analysis ## 
+![img](https://github.com/nasriv/Udemy_LogisiticRegression/blob/master/AgeHist.jpg)
 ## Logisitic Regression Model ## 
 ## Predictions and Evaluation ##
