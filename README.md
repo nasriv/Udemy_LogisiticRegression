@@ -1,7 +1,7 @@
 # Logistic Regression Project
-### Based on Udemy class "Python for Data Science and Machine Learning Bootcamp" by Jose Portilla ### 
+*Based on Udemy class "Python for Data Science and Machine Learning Bootcamp" by Jose Portilla*
 
-### Logistic Regression Project ###
+## Logistic Regression Project ##
 In this project we will be working with a fake advertising data set, indicating whether or not a particular internet user clicked on an Advertisement. 
 
 __We will try to create a model that will predict whether or not they will click on an ad based off the features of that user__
@@ -19,3 +19,5 @@ Column Name | Description
 'Country'| Country of consumer
 'Timestamp'| Time at which consumer clicked on Ad or closed window
 'Clicked on Ad'| 0 or 1 indicated clicking on Ad
+
+## Exploratory Data Analysis ## 
